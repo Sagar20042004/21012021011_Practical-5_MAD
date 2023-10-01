@@ -1,4 +1,4 @@
-![image](https://github.com/Sagar20042004/21012021011_Practical-5_MAD/assets/98373145/72122a83-5a07-4e15-b88c-92712468330b)# 21012021011_Practical-5_MAD
+# 21012021011_Practical-5_MAD
 PR5
 
 AIM: What is Intent? Write down types of Intent and types of Intent Action. Create an
